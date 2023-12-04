@@ -4,19 +4,12 @@ Drowsiness is a state of abnormal sleeping, people suffering from drowsiness ten
 
 In this project system will monitor the eyes using a camera and a model will predict the eye state of the user according to symptoms of drowsiness person sleeping then beeps alerts will start and if the user open the eyes the beeps will stop automatically and if the user continues to sleep then beeps increases and does not stops and alert messages are also show on the screen untill user awakes and switch it off.
 
-# Dataset
-Dataset Link: http://mrl.cs.vsb.cz/eyedataset
 # Requirements:
-
 - Python 3
-- Matplotlib
-- Pandas and Numpy
-- Scikit-Learn
-- Colab
+- Google Colab
 - Haar-Cascade Classifier for face OpenCV
 
-
-## Screenshots
+## Output
 ### Eyes Open
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyo98riTKPFqTn-cwOjqu8hseLH15CGfUsCr9fk2eqcJ_8_LVYR-PzeTlaZ1iWZYbUsjoCnlz_WBoQSffw7kmLB803ayrXSB7H_HAC9e0A3wOhnFJ2pFauIpl-dtn3p2f15kc6c--cM72c6EuMdacJlQyDe9i0DodvxMs_hEBfQq69ajKvLvMGW2FEEQ/s1600/img2.png)
 
